@@ -1,0 +1,259 @@
+2023-03-08 12:32:27,958 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,085 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,204 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,321 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,438 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,539 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,623 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,747 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,868 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:28,998 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:29,102 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:29,651 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:29,766 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:29,881 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:29,984 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,102 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,222 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,330 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,433 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,539 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,632 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:30,758 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:31,356 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:31,444 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:31,538 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:31,626 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:31,725 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-08 12:32:31,842 - BOJ文本数据爬取实时.py - INFO: waiting for data
+2023-03-09 10:23:24,885 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 10:23:26,853 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 10:23:30,562 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 10:23:32,515 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 16:22:07,919 - BOJ文本数据爬取实时.py - INFO: 总耗时:6.47339940071106
+2023-03-09 16:22:07,938 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 16:23:06,618 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 16:24:27,057 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-09 16:29:30,240 - BOJ文本数据爬取实时.py - INFO: 1 January 18, 2023 Bank of Japan Statement on Monetary Policy 1.At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decidedupon the following.(1)Yield curve control (a unanimous vote)a)The Bank decided to set the following guideline for market operations for theintermeeting period.The short-term policy interest rate:The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate Balances in current accounts held by financial institutions at the Bank. The long-term interest rate: The Bank will purchase a necessary amount of Japanese government bonds (JGBs) without setting an upper limit so that 10-year JGB yields will remain at around zero percent. b)Conduct of yield curve controlThe Bank will continue to allow 10-year JGB yields to fluctuate in the range of aroundplus and minus 0.5 percentage points from the target level, and will offer to purchase10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,unless it is highly likely that no bids will be submitted. In order to encourage the formation of a yield curve that is consistent with the above guideline for market operations, the Bank will continue with large-scale JGB purchases and make nimble responses for each maturity by increasing the amount of JGB purchases and conducting fixed-rate purchase operations. (2)Guidelines for asset purchases (a unanimous vote)With regard to asset purchases other than JGB purchases, the Bank decided to set thefollowing guidelines.2 a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180 billion yen, respectively, on annual paces of increase in their amounts outstanding. b) The Bank will purchase CP and corporate bonds at about the same pace as prior to the novel coronavirus (COVID-19) pandemic, so that their amounts outstanding will gradually return to pre-pandemic levels, namely, about 2 trillion yen for CP and about 3 trillion yen for corporate bonds. In adjusting the amount outstanding of corporate bonds, the Bank will give due consideration to their issuance conditions. 2. The Bank decided, by unanimous votes, to (1) extend by one year the deadline for loan disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending, (2) expand the range of eligible counterparties for the Funds-Supplying Operations to Support Financing for Climate Change Responses to include member financial institutions of central organizations of financial cooperatives, and (3) enhance the Funds-Supplying Operations against Pooled Collateral. 3. The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary for maintaining that target in a stable manner. It will continue expanding the monetary base until the year-on-year rate of increase in the observed consumer price index (CPI, all items less fresh food) exceeds 2 percent and stays above the target in a stable manner. For the time being, while closely monitoring the impact of COVID-19, the Bank will support financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to take additional easing measures if necessary; it also expects short- and long-term policy interest rates to remain at their present or lower levels. Reference Meeting hours: Tuesday, January 17: 14:00-16:31 Wednesday, January 18: 9:00-11:33 Policy Board members present:    Mr. KURODA Haruhiko, Chairman (Governor)    Mr. AMAMIYA Masayoshi (Deputy Governor)    Mr. WAKATABE Masazumi (Deputy Governor) Mr. ADACHI Seiji Mr. NAKAMURA Toyoaki Mr. NOGUCHI Asahi Ms. NAKAGAWA Junko Mr. TAKATA Hajime Mr. TAMURA Naoki  [Others present] January 17 From the Ministry of Finance: Mr. OKU Tatsuo, Deputy Vice-Minister for Policy Planning and Coordination  (14:00-16:31) From the Cabinet Office: Mr. INOUE Hiroyuki, Vice-Minister for Policy Coordination (14:00-16:31) January 18 From the Ministry of Finance: Mr. INOUE Takahiro, State Minister of Finance (9:00-11:10, 11:18-11:33) From the Cabinet Office: Mr. FUJIMARU Satoshi, State Minister of Cabinet Office (9:00-11:10, 11:18-11:33) Release dates and times: Statement on Monetary Policy -- Wednesday, January 18 at 11:40 Outlook for Economic Activity and Prices (Outlook Report) The Bank's View -- Wednesday, January 18 at 11:40 Full text -- Thursday, January 19 at 14:00 Summary of Opinions -- Thursday, January 26 at 8:50 Minutes of the Monetary Policy Meeting -- Wednesday, March 15 at 8:50 
+2023-03-10 10:33:44,455 - BOJ文本数据爬取实时.py - INFO: a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment
+trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180
+
+billion yen, respectively, on annual paces of increase in their amounts outstanding.
+
+b) The Bank will maintain the amount outstanding of CP at about 2 trillion yen. It will
+purchase corporate bonds at about the same pace as prior to the COVID-19 pandemic,
+so that their amount outstanding will gradually return to the pre-pandemic level of
+about 3 trillion yen. In adjusting the amount outstanding of corporate bonds, the Bank
+
+will give due consideration to their issuance conditions.
+
+Japan's economy, despite being affected by factors such as high commodity prices, has picked
+up as the resumption of economic activity has progressed while public health has been
+protected from COVID-19. The pace of recovery in overseas economies has slowed. Although
+exports and industrial production have been affected by the developments in overseas
+economies, they have been more or less flat, supported by a waning of the effects of supply-
+side constraints. With corporate profits being at high levels on the whole, business fixed
+investment has increased moderately. The employment and income situation has improved
+moderately on the whole. Private consumption, despite being affected by price rises, has
+increased moderately, with the impact of COVID-19 waning. Housing investment has been
+relatively weak. Public investment has been more or less flat. Financial conditions have been
+accommodative on the whole, although weakness in firms' financial positions has remained in
+some segments. On the price front, the year-on-year rate of change in the consumer price index
+(CPI, all items less fresh food) has been at around 4 percent due to rises in prices of such items
+
+as energy, food, and durable goods. Meanwhile, inflation expectations have risen.
+
+Japan's economy is likely to recover, with the impact of COVID-19 and supply-side constraints
+waning, although it is expected to be under downward pressure stemming from high
+commodity prices and slowdowns in overseas economies. Thereafter, as a virtuous cycle from
+income to spending intensifies gradually, Japan's economy is projected to continue growing at
+a pace above its potential growth rate. The year-on-year rate of increase in the CPI (all items
+less fresh food) is likely to decelerate toward the middle of fiscal 2023 due to the effects of
+pushing down energy prices from the government's economic measures and to a waning of the
+effects of a pass-through to consumer prices of cost increases led by a rise in import prices.
+Thereafter, the rate of increase is projected to accelerate again moderately on the back of
+
+improvement in the output gap, rises in medium- to long-term inflation expectations and in
+wage growth, and a waning of the effects of the economic measures pushing down energy
+
+prices toward the middle of fiscal 2023.
+
+Concerning risks to the outlook, there remain extremely high uncertainties for Japan's economy,
+including the following: developments in overseas economic activity and prices; developments
+in the situation surrounding Ukraine and in commodity prices; and the course of COVID-19 at
+home and abroad and its impact. In this situation, it is necessary to pay due attention to
+developments in financial and foreign exchange markets and their impact on Japan's economic
+
+activity and prices.
+
+The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield
+Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary
+for maintaining that target in a stable manner. It will continue expanding the monetary base
+until the year-on-year rate of increase in the observed CPI (all items less fresh food) exceeds 2
+
+percent and stays above the target in a stable manner.
+
+For the time being, while closely monitoring the impact of COVID-19, the Bank will support
+financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to
+take additional easing measures if necessary; it also expects short- and long-term policy interest
+
+rates to remain at their present or lower levels.
+March 10, 2023
+Bank of Japan
+
+Statement on Monetary Policy
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided
+
+upon the following.
+
+(1) Yield curve control (a unanimous vote)
+
+a)
+
+b)
+
+The Bank decided to set the following guideline for market operations for the
+
+intermeeting period.
+
+The short-term policy interest rate:
+The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate
+
+Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate:
+The Bank will purchase a necessary amount of Japanese government bonds (JGBs)
+without setting an upper limit so that 10-year JGB yields will remain at around zero
+
+percent.
+
+‘Conduct of yield curve control
+
+The Bank will continue to allow 10-year JGB yields to fluctuate in the range of around
+plus and minus 0.5 percentage points from the target level, and will offer to purchase
+10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,
+unless it is highly likely that no bids will be submitted. In order to encourage the
+formation of a yield curve that is consistent with the above guideline for market
+operations, the Bank will continue with large-scale JGB purchases and make nimble
+responses for each maturity by increasing the amount of JGB purchases and conducting
+
+fixed-rate purchase operations.
+
+(2) Guidelines for asset purchases (a unanimous vote)
+
+With regard to asset purchases other than JGB purchases, the Bank decided to set the
+
+following guidelines.
+
+2023-03-10 11:15:18,743 - BOJ文本数据爬取实时.py - INFO: a) The Bank will purchase exchange-traded funds (ETFs) and Japan real estate investment
+trusts (J-REITs) as necessary with upper limits of about 12 trillion yen and about 180
+
+billion yen, respectively, on annual paces of increase in their amounts outstanding.
+
+b) The Bank will maintain the amount outstanding of CP at about 2 trillion yen. It will
+purchase corporate bonds at about the same pace as prior to the COVID-19 pandemic,
+so that their amount outstanding will gradually return to the pre-pandemic level of
+about 3 trillion yen. In adjusting the amount outstanding of corporate bonds, the Bank
+
+will give due consideration to their issuance conditions.
+
+Japan's economy, despite being affected by factors such as high commodity prices, has picked
+up as the resumption of economic activity has progressed while public health has been
+protected from COVID-19. The pace of recovery in overseas economies has slowed. Although
+exports and industrial production have been affected by the developments in overseas
+economies, they have been more or less flat, supported by a waning of the effects of supply-
+side constraints. With corporate profits being at high levels on the whole, business fixed
+investment has increased moderately. The employment and income situation has improved
+moderately on the whole. Private consumption, despite being affected by price rises, has
+increased moderately, with the impact of COVID-19 waning. Housing investment has been
+relatively weak. Public investment has been more or less flat. Financial conditions have been
+accommodative on the whole, although weakness in firms' financial positions has remained in
+some segments. On the price front, the year-on-year rate of change in the consumer price index
+(CPI, all items less fresh food) has been at around 4 percent due to rises in prices of such items
+
+as energy, food, and durable goods. Meanwhile, inflation expectations have risen.
+
+Japan's economy is likely to recover, with the impact of COVID-19 and supply-side constraints
+waning, although it is expected to be under downward pressure stemming from high
+commodity prices and slowdowns in overseas economies. Thereafter, as a virtuous cycle from
+income to spending intensifies gradually, Japan's economy is projected to continue growing at
+a pace above its potential growth rate. The year-on-year rate of increase in the CPI (all items
+less fresh food) is likely to decelerate toward the middle of fiscal 2023 due to the effects of
+pushing down energy prices from the government's economic measures and to a waning of the
+effects of a pass-through to consumer prices of cost increases led by a rise in import prices.
+Thereafter, the rate of increase is projected to accelerate again moderately on the back of
+
+improvement in the output gap, rises in medium- to long-term inflation expectations and in
+wage growth, and a waning of the effects of the economic measures pushing down energy
+
+prices toward the middle of fiscal 2023.
+
+Concerning risks to the outlook, there remain extremely high uncertainties for Japan's economy,
+including the following: developments in overseas economic activity and prices; developments
+in the situation surrounding Ukraine and in commodity prices; and the course of COVID-19 at
+home and abroad and its impact. In this situation, it is necessary to pay due attention to
+developments in financial and foreign exchange markets and their impact on Japan's economic
+
+activity and prices.
+
+The Bank will continue with Quantitative and Qualitative Monetary Easing (QQE) with Yield
+Curve Control, aiming to achieve the price stability target of 2 percent, as long as it is necessary
+for maintaining that target in a stable manner. It will continue expanding the monetary base
+until the year-on-year rate of increase in the observed CPI (all items less fresh food) exceeds 2
+
+percent and stays above the target in a stable manner.
+
+For the time being, while closely monitoring the impact of COVID-19, the Bank will support
+financing, mainly of firms, and maintain stability in financial markets, and will not hesitate to
+take additional easing measures if necessary; it also expects short- and long-term policy interest
+
+rates to remain at their present or lower levels.
+March 10, 2023
+Bank of Japan
+
+Statement on Monetary Policy
+
+1. At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided
+
+upon the following.
+
+(1) Yield curve control (a unanimous vote)
+
+a)
+
+b)
+
+The Bank decided to set the following guideline for market operations for the
+
+intermeeting period.
+
+The short-term policy interest rate:
+The Bank will apply a negative interest rate of minus 0.1 percent to the Policy-Rate
+
+Balances in current accounts held by financial institutions at the Bank.
+
+The long-term interest rate:
+The Bank will purchase a necessary amount of Japanese government bonds (JGBs)
+without setting an upper limit so that 10-year JGB yields will remain at around zero
+
+percent.
+
+‘Conduct of yield curve control
+
+The Bank will continue to allow 10-year JGB yields to fluctuate in the range of around
+plus and minus 0.5 percentage points from the target level, and will offer to purchase
+10-year JGBs at 0.5 percent every business day through fixed-rate purchase operations,
+unless it is highly likely that no bids will be submitted. In order to encourage the
+formation of a yield curve that is consistent with the above guideline for market
+operations, the Bank will continue with large-scale JGB purchases and make nimble
+responses for each maturity by increasing the amount of JGB purchases and conducting
+
+fixed-rate purchase operations.
+
+(2) Guidelines for asset purchases (a unanimous vote)
+
+With regard to asset purchases other than JGB purchases, the Bank decided to set the
+
+following guidelines.
+
